@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.App.exe.config
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.App.exe
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.App.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\obj\Debug\EquinosBovinos.App.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\obj\Debug\EquinosBovinos.App.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\obj\Debug\EquinosBovinos.App.exe
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\obj\Debug\EquinosBovinos.App.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.Bussines.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.Data.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.Bussines.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\EquinosBovinos.Data.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\obj\Debug\EquinosBovinos.App.csproj.CopyComplete
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.App\bin\Debug\DATA\EQUNOSBOVINOS.DAT

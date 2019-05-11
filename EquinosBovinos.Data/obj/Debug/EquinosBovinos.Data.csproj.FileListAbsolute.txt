@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\bin\Debug\EquinosBovinos.Data.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\bin\Debug\EquinosBovinos.Data.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\obj\Debug\EquinosBovinos.Data.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\obj\Debug\EquinosBovinos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\obj\Debug\EquinosBovinos.Data.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\obj\Debug\EquinosBovinos.Data.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Data\bin\Debug\DATA\EQUNOSBOVINOS.DAT

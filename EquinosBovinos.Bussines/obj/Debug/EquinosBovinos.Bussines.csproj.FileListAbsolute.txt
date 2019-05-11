@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\bin\Debug\EquinosBovinos.Bussines.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\bin\Debug\EquinosBovinos.Bussines.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\bin\Debug\EquinosBovinos.Data.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\bin\Debug\EquinosBovinos.Data.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\obj\Debug\EquinosBovinos.Bussines.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\obj\Debug\EquinosBovinos.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\obj\Debug\EquinosBovinos.Bussines.csproj.CopyComplete
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\obj\Debug\EquinosBovinos.Bussines.dll
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\obj\Debug\EquinosBovinos.Bussines.pdb
+C:\Users\Usuario\source\repos\EquinosBovinos\EquinosBovinos.Bussines\bin\Debug\DATA\EQUNOSBOVINOS.DAT
